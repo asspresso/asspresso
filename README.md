@@ -6,6 +6,7 @@
   - [NYC Water Quality Prediction with DNN, RNN & LSTM](https://github.com/asspresso/NYC-Water-Quality-Prediction)
   - [Responsible Data Science with Hospital Readmission](https://github.com/asspresso/Responsible-Data-Science-Project)
   - [Sexual, Racial and Socioeconomical Fairness in COVID-19: Dimension Reduction and Clustering](https://github.com/asspresso/Sexual-Racial-and-Socioeconomical-Fairness-in-COVID-19)
+  - [Spotify Music Genre Classification](https://github.com/asspresso/Spotify-Music-Classification)
 - <b>Database Management (Python Pandas, Numpy, Postgresql, MongoDB)</b>
   - [Database Management and Analysis Coursework](https://github.com/asspresso/Database-Management-and-Analysis)
 
