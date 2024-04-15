@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Machine Learning</b>
+- <b>Large Language Models (LLMs)</b>
   - [GPT-2 Pretraining with Sequence Length Warmup](https://github.com/asspresso/Sequence-Length-Warmup)
 - <b>Machine Learning</b>
   - [NYC Water Quality Prediction with DNN, RNN & LSTM](https://github.com/asspresso/NYC-Water-Quality-Prediction)
